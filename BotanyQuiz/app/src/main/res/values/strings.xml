@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Botany Quiz</string>
+    <string name="test_subheading">Test your botanical knowledge!</string>
+    <string name="first_direction">Question 1: Select the correct response</string>
+    <string name="first_question">Grasses (Poaceae) are:</string>
+    <string name="answer1a">monocots</string>
+    <string name="answer1b">dicots</string>
+    <string name="second_direction">Question 2: Check all that apply</string>
+    <string name="question2">Tomatoes are:</string>
+    <string name="answer2a">a vegetable</string>
+    <string name="answer2b">a fruit</string>
+    <string name="answer2c">in the Nightshade family</string>
+    <string name="answer2d">toxic to cats</string>
+    <string name="answer2e">known to contain nicotine</string>
+    <string name="third_direction">Question 3: Fill in the blank</string>
+    <string name="question3">What is the scientific name for the redwoods of the PNW?</string>
+    <string name="genus_species">Genus species</string>
+    <string name="fourth_direction">Question 4: True or False</string>
+    <string name="question4">Mushrooms are plants</string>
+    <string name="answer4a">True</string>
+    <string name="answer4b">False</string>
+    <string name="answer4c">Mostly true</string>
+    <string name="fith_direction">Question 5: Check all that apply</string>
+    <string name="question5">Angiosperms</string>
+    <string name="answer5a">produce flowers</string>
+    <string name="answer5b">produce spores</string>
+    <string name="answer5c">can be monocots or dicots</string>
+    <string name="answer5d">came before gymnosperms</string>
+    <string name="submit">Submit</string>
+    <string name="begin_quiz">Begin Quiz</string>
+</resources>
